@@ -1,5 +1,7 @@
 # WUDAC 2025 Datathon: User Segmentation & Uplift Modeling
 
+🏆 2nd Place, WUDAC Spring 2025 Datathon
+
 **What**  
 Segmented 16 M+ sessions into four personas (K-means) and built an XGBoost model to predict high-value users, driving 28 % lift in conversions and 2.6× ROI.
 
